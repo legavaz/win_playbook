@@ -1,0 +1,9 @@
+# logs and local backups
+*.log
+backup-*/
+_os-backup-*/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
